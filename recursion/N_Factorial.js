@@ -6,4 +6,5 @@ function nFactorial(n) {
 }
 
 let zet = nFactorial(5);
+
 console.log(zet);
